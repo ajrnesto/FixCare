@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496390329567",
+    "firebase_url": "https://fix-and-care-default-rtdb.firebaseio.com",
+    "project_id": "fix-and-care",
+    "storage_bucket": "fix-and-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496390329567:android:143e1f506542b808b6c56a",
+        "android_client_info": {
+          "package_name": "com.fixcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496390329567-fvo71n501uim6r42ijjv2msjuej3gguo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaIajVMUfYwBD517MkjPo6UXFWqSUYzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496390329567-fvo71n501uim6r42ijjv2msjuej3gguo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

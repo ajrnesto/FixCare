@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="FixCare.TIL" parent="Widget.Material3.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/selector_text_input_layout</item>
+        <item name="hintTextColor">@color/selector_text_input_layout</item>
+        <item name="startIconTint">@color/selector_text_input_layout</item>
+        <item name="endIconTint">@color/selector_text_input_layout</item>
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+    </style>
+
+    <style name="FixCare.TIET" parent="Widget.Material3.TextInputEditText.OutlinedBox">
+        <item name="fontFamily">@font/plusjakartasans_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="color">?colorPrimary</item>
+    </style>
+
+    <style name="FixCare.DropDownMenu" parent="Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/selector_text_input_layout</item>
+        <item name="hintTextColor">@color/selector_text_input_layout</item>
+        <item name="startIconTint">@color/selector_text_input_layout</item>
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+    </style>
+</resources>

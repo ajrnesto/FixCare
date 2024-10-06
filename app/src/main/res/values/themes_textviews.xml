@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FixCare.TextView.ExtraLarge" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/plusjakartasans_medium</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">?colorPrimary</item>
+    </style>
+    <style name="FixCare.TextView.Large" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/plusjakartasans_medium</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">?colorPrimary</item>
+    </style>
+
+    <style name="FixCare.TextView.Medium" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/plusjakartasans_medium</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">?colorPrimary</item>
+    </style>
+
+    <style name="FixCare.TextView.Regular" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/plusjakartasans_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?colorPrimary</item>
+    </style>
+</resources>

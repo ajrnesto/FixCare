@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FixCare.Drawer" parent="">
+        <item name="fontFamily">@font/plusjakartasans_medium</item>
+    </style>
+
+    <style name="FixCare.NavigationView" parent="Widget.Material3.NavigationView">
+        <item name="itemTextAppearance">@style/FixCare.NavigationView.TextAppearance</item>
+        <item name="itemTextColor">@color/selector_nav_fg</item>
+        <item name="itemIconTint">@color/selector_nav_fg</item>
+        <item name="itemShapeFillColor">@color/selector_nav_bg</item>
+        <item name="itemVerticalPadding">20dp</item>
+    </style>
+
+    <style name="FixCare.NavigationView.TextAppearance" parent="">
+        <item name="fontFamily">@font/plusjakartasans_medium</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="ThemeOverlay.FixCare.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
+</resources>

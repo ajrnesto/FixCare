@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FixCare.ProgressBar" parent="Widget.Material3.CircularProgressIndicator">
+        <item name="trackColor">@color/gray</item>
+        <item name="indicatorColor">?colorPrimary</item>
+    </style>
+</resources>

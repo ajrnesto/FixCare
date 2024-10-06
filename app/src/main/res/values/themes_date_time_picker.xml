@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="FixCare.DatePicker" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="colorPrimary">?colorPrimary</item>
+        <item name="colorOnPrimary">?colorOnPrimary</item>
+        <item name="colorSurface">?colorSurface</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="android:textColor">@color/red</item>
+        <item name="colorAccent">@color/green_aqua</item>
+    </style>
+
+    <style name="FixCare.TimePicker" parent="ThemeOverlay.MaterialComponents.TimePicker">
+        <item name="android:amPmTextColor">?android:attr/textColorSecondary</item>
+    </style>
+    <!--item name="android:timePickerMode">clock</item>
+        <item name="android:numbersBackgroundColor">#ff555555</item>
+    <item name="android:headerBackground">#ff555555</item>
+    <item name="android:numbersTextColor">?android:attr/textColorPrimaryActivated</item>
+    <item name="android:numbersInnerTextColor" tools:targetApi="m">?android:attr/textColorSecondaryActivated</item>
+    <item name="android:numbersSelectorColor">?android:attr/colorControlActivated</item-->
+</resources>
